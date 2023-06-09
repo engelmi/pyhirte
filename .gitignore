@@ -1,0 +1,9 @@
+# virtual env directories
+.venv/
+venv/
+
+# build artifacts
+build/
+
+# caches
+__pycache__/
